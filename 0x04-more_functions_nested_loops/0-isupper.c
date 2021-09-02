@@ -1,12 +1,13 @@
-#!/usr/bin/env perl  
 #include "holberton.h"
-#include <stdio.h>
 
 /**
- * _isupper - Check if paramter c represents an uppercase letter.
- * @c: Int representing a character
- * Return: Always 0.
+ * _isupper - prints 1 or 0 depending on input
+ * @c: input type variable
+ *
+ * Description: checks for uppercase letters
+ * Return: Aways (0).
  */
+
 int _isupper(int c)
 {
 	if (c >= 65 && c <= 90)
