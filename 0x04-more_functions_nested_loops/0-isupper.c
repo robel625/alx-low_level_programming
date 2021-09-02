@@ -1,4 +1,6 @@
 #include "holberton.h"
+#include "_putchar.h"
+#include "main.h"
 
 /**
  * _isupper - prints 1 or 0 depending on input
