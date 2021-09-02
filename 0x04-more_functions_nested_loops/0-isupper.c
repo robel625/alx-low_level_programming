@@ -1,4 +1,4 @@
-  
+#!/usr/bin/env perl  
 #include "holberton.h"
 #include <stdio.h>
 
