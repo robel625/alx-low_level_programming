@@ -45,4 +45,3 @@ int _strlen(char *s)
 		s++;
 	return (s - p);
 }
-
